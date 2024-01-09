@@ -25,7 +25,7 @@ The script will look the in the selected folder for any files with --abcd-- remo
 
 1. Clone the repository
 ```bash
-git clone https://github.com/auvantas/bulk-file-find-and-rename/file-renamer.git
+git clone https://github.com/auvantas/bulk-file-find-and-rename/bulk-file-find-rename.py
 ```
 
 2. Run the script
