@@ -27,3 +27,7 @@ Usage
     
   1. Select a directory 
   2. Enter the search string to remove from filenames
+
+## License
+
+This project is licensed under the MIT License - see the [MIT License](https://github.com/auvantas/bulk-file-find-and-rename/blob/main/LICENSE) for details.
